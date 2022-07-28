@@ -1,0 +1,16 @@
+
+https://chakra-ui.com/docs/components/form/button
+
+  <Button colorScheme='teal' variant='solid'>
+    Button
+  </Button>
+
+
+  <Button colorScheme='teal' variant='solid'>
+    Button
+  </Button>
+
+
+  <Button colorScheme='facebook' variant='solid'>
+    Button
+  </Button>
